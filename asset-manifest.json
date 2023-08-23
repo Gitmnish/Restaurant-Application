@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Restaurant-Application/static/css/main.7dfebdc2.css",
+    "main.js": "/Restaurant-Application/static/js/main.c834aecc.js",
+    "static/js/787.9c74c3a3.chunk.js": "/Restaurant-Application/static/js/787.9c74c3a3.chunk.js",
+    "static/media/headerBanner.jpg": "/Restaurant-Application/static/media/headerBanner.28595fd008a7fbee0c4e.jpg",
+    "index.html": "/Restaurant-Application/index.html",
+    "main.7dfebdc2.css.map": "/Restaurant-Application/static/css/main.7dfebdc2.css.map",
+    "main.c834aecc.js.map": "/Restaurant-Application/static/js/main.c834aecc.js.map",
+    "787.9c74c3a3.chunk.js.map": "/Restaurant-Application/static/js/787.9c74c3a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dfebdc2.css",
+    "static/js/main.c834aecc.js"
+  ]
+}
